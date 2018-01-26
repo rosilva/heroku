@@ -7,6 +7,6 @@
   <title>Heroku</title>
 </head>
 <body>
-  <h1>Hello from automatic deploy</h1>
+  <h1>Hello from automatic deploy - Test</h1>
 </body>
 </html>
