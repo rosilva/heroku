@@ -1,0 +1,13 @@
+{
+    "name": "rosilva/sigap",
+    "authors": [
+        {
+            "name": "Rodrigo Oliveira",
+            "email": "ps.rodrigo.oliveira@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^7.0.0"
+    }
+}
